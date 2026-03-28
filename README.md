@@ -1,6 +1,6 @@
 # testRigor E-Commerce Automation Suite
 
-AI-powered end-to-end test automation for a web-based e-commerce platform using testRigor's plain English test NLP based scripting.
+AI-powered end-to-end test automation for a web-based e-commerce platform using testRigor's NLP based scripting.
 
 ---
 
