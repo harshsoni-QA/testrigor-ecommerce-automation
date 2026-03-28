@@ -45,24 +45,25 @@ This project demonstrates AI-driven test automation using testRigor on the Sauce
 
 ---
 
+## Screenshots
+
 ### Test Suite Dashboard
-![Test Suite](Screenshots/TestSuite.png)
+![Test Suite](TestSuite.png)
 
 ### Login Flow
-![Login](Screenshots/Login.png)
+![Login](Login.png)
 
 ### Products Page
-![Products Page](Screenshots/ProductsPage.png)
+![Products Page](ProductsPage.png)
 
 ### Cart Page
-![Cart Page](Screenshots/CartPage.png)
+![Cart Page](CartPage.png)
 
 ### Cart Icon
-![Cart Icon](Screenshots/CartIcon.png)
+![Cart Icon](CartIcon.png)
 
 ### Test Script
-![Test Script](Screenshots/TestScript.png)
-
+![Test Script](TestScript.png)
 ---
 
 ## Why testRigor
