@@ -1,1 +1,83 @@
-# testrigor-ecommerce-automation
+# testRigor E-Commerce Automation Suite
+
+AI-powered end-to-end test automation for a web-based e-commerce platform using testRigor's plain English test NLP based scripting.
+
+---
+
+## Project Overview
+
+This project demonstrates AI-driven test automation using testRigor on the SauceDemo e-commerce platform. It covers core user flows including authentication, product browsing, cart management, and checkout written entirely in Natural language.
+
+**Goal:** Showcase real-world application of AI-powered testing as an alternative to traditional Selenium scripting.
+
+---
+
+## Test Coverage
+
+| # | Test Case | Status |
+|---|---|---|
+| 1 | Verify that user is able to login successfully | ✅ Pass |
+| 2 | Verify that user is unable to login with invalid data | ✅ Pass |
+| 3 | Verify that the user is able to Add Product to Cart | ✅ Pass |
+| 4 | Verify the user is able to complete purchase | ✅ Pass |
+| 5 | Verify that the user is able to sort products by price | ✅ Pass |
+
+---
+
+## Tech Stack
+
+- **Tool:** testRigor (AI-powered test automation)
+- **Test syntax:** Natural language Scripting (no code)
+- **Application under test:** SauceDemo (saucedemo.com)
+- **Type:** End-to-end UI automation
+- **Platform:** Web
+
+---
+
+## Key Concepts Demonstrated
+
+- AI-driven element recognition (no XPath or CSS selectors needed)
+- End-to-end user journey automation
+- Positive and negative test scenario coverage
+- Form input validation
+- Cart and checkout flow testing
+- Dynamic UI interaction (dropdowns, buttons, navigation)
+
+---
+
+## Screenshots
+
+### Test Suite Dashboard
+![Test Suite](screenshots/TestSuite.png)
+
+### Sample Test — Full Checkout Flow
+![Checkout Test](screenshots/CartPage.png)
+
+---
+
+## Why testRigor
+
+Traditional automation tools like Selenium require maintaining locators (XPath, CSS selectors) which break frequently on UI changes. testRigor uses AI to identify elements by how a human would describe them — making tests more stable, readable, and faster to write.
+
+| | Selenium | testRigor |
+|---|---|---|
+| Syntax | Java/Python code | Natural Language |
+| Element strategy | XPath / CSS | AI recognition |
+| Maintenance effort | High | Low |
+| Speed to write | Slow | Fast |
+
+---
+
+## Certification
+
+This project is backed by hands-on certification:
+
+**AI-Driven Test Automation Engineer** — testRigor (Feb 2026)
+Credential ID: `5jVuKxabvomrYMwxSfw214ji`
+
+---
+
+## Author
+
+**Harsh Soni** — QA Automation Engineer
+[LinkedIn](https://linkedin.com/in/harshsoni27) · [GitHub](https://github.com/harshsoni27)
