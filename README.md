@@ -83,12 +83,11 @@ Traditional automation tools like Selenium require maintaining locators (XPath, 
 
 This project is backed by hands-on certification:
 
-**AI-Driven Test Automation Engineer** — testRigor (Feb 2026)
-Credential ID: `5jVuKxabvomrYMwxSfw214ji`
+**AI Test Automation Engineer** — [Certificate](https://drive.google.com/file/d/1etL_9O2MwEITD78c0ofUpQ-G3-a0q2rt/view?usp=sharing)
 
 ---
 
 ## Author
 
 **Harsh Soni** — QA Automation Engineer
-[LinkedIn](https://linkedin.com/in/harshsoni27) · [GitHub](https://github.com/harshsoni27)
+[LinkedIn](https://linkedin.com/in/harshsoni27) · [GitHub](https://github.com/harshsoni27) · [testRigor](https://app.testrigor.com/public/R9dyEuH2CCHauyX9E)
